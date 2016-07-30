@@ -1,0 +1,12 @@
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Repository.EntityFramework\bin\Debug\DDDDemo.Repository.EntityFramework.dll
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Repository.EntityFramework\bin\Debug\DDDDemo.Repository.EntityFramework.pdb
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Repository.EntityFramework\obj\Debug\DDDDemo.Repository.EntityFramework.dll
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Repository.EntityFramework\obj\Debug\DDDDemo.Repository.EntityFramework.pdb
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Repository.EntityFramework\obj\Debug\DDDDemo.Repository.EntityFramework.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Repository.EntityFramework\bin\Debug\DDDDemo.Repository.EntityFramework.dll.config
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Repository.EntityFramework\bin\Debug\DDDDemo.Repository.dll
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Repository.EntityFramework\bin\Debug\EntityFramework.dll
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Repository.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Repository.EntityFramework\bin\Debug\DDDDemo.Repository.pdb
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Repository.EntityFramework\bin\Debug\EntityFramework.xml
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Repository.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,9 @@
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Domain.NHibernate\bin\Debug\DDDDemo.Domain.NHibernate.dll
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Domain.NHibernate\bin\Debug\DDDDemo.Domain.NHibernate.pdb
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Domain.NHibernate\bin\Debug\Iesi.Collections.dll
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Domain.NHibernate\bin\Debug\NHibernate.dll
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Domain.NHibernate\bin\Debug\Iesi.Collections.xml
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Domain.NHibernate\bin\Debug\NHibernate.xml
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Domain.NHibernate\obj\Debug\DDDDemo.Domain.NHibernate.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Domain.NHibernate\obj\Debug\DDDDemo.Domain.NHibernate.dll
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Domain.NHibernate\obj\Debug\DDDDemo.Domain.NHibernate.pdb

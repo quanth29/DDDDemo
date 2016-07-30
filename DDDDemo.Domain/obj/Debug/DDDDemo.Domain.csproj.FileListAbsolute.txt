@@ -1,0 +1,7 @@
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Domain\bin\Debug\DDDDemo.Domain.dll
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Domain\bin\Debug\DDDDemo.Domain.pdb
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Domain\bin\Debug\DDDDemo.Repository.dll
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Domain\bin\Debug\DDDDemo.Repository.pdb
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Domain\obj\Debug\DDDDemo.Domain.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Domain\obj\Debug\DDDDemo.Domain.dll
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Domain\obj\Debug\DDDDemo.Domain.pdb

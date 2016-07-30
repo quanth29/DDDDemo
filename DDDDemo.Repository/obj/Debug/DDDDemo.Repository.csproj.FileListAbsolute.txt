@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Repository\bin\Debug\DDDDemo.Repository.dll
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Repository\bin\Debug\DDDDemo.Repository.pdb
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Repository\obj\Debug\DDDDemo.Repository.dll
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Repository\obj\Debug\DDDDemo.Repository.pdb
+\\psf\home\documents\visual studio 2015\Projects\DDDDemo\DDDDemo.Repository\obj\Debug\DDDDemo.Repository.csprojResolveAssemblyReference.cache
