@@ -41,7 +41,7 @@ namespace DDDDemo.Repository.EntityFramework
         {
             if(transaction != null)
             {
-                (transaction as IDisposable).Dispose();
+                transaction.Dispose();
                 transaction = null;
             }
         }

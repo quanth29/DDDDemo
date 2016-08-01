@@ -40,11 +40,7 @@ namespace DDDDemo.Repository.NHibernate
 
         public void EndTransaction(ITransaction transaction)
         {
-            if (transaction != null)
-            {
-                (transaction as IDisposable).Dispose();
-                transaction = null;
-            }
+            transaction?.Dispose();
         }
 
         public void Insert<TEntity>(TEntity entity) where TEntity : class

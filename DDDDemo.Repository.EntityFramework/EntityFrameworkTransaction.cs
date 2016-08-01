@@ -32,7 +32,7 @@ namespace DDDDemo.Repository.EntityFramework
         {
             if (TransactionScope != null)
             {
-               (TransactionScope as IDisposable).Dispose();
+               TransactionScope.Dispose();
                 TransactionScope = null;
                 UnitOfWork = null;
             }

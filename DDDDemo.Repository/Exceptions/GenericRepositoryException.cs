@@ -4,7 +4,8 @@ namespace DDDDemo.Repository.Exceptions
 {
     public class GenericRepositoryException : Exception
     {
-        public GenericRepositoryException() : base() { }
+        public GenericRepositoryException()
+        { }
 
         public GenericRepositoryException(string message) : base(message) { }
 

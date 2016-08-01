@@ -1,5 +1,4 @@
-﻿using System;
-using DDDDemo.Repository.Interfaces;
+﻿using DDDDemo.Repository.Interfaces;
 using INHibernateTransaction = NHibernate.ITransaction;
 
 namespace DDDDemo.Repository.NHibernate
@@ -15,11 +14,9 @@ namespace DDDDemo.Repository.NHibernate
 
         public void Dispose()
         {
-            if (Transaction != null)
-            {
-                (Transaction as IDisposable).Dispose();
-                Transaction = null;
-            }
+            if (Transaction == null) return;
+            Transaction.Dispose();
+            Transaction = null;
         }
 
         public void Commit()

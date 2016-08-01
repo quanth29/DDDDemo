@@ -57,7 +57,7 @@ namespace DDDDemo.Repository
 
         public virtual TEntity Get(Expression<Func<TEntity, bool>> where)
         {
-            return UnitOfWork.Get<TEntity>(where);
+            return UnitOfWork.Get(where);
         }
 
 

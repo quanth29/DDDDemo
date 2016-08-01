@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Reflection;
 using DDDDemo.Repository.Interfaces;
 using NHibernate;
 using NHibernate.Cfg;
@@ -46,7 +41,7 @@ namespace DDDDemo.Repository.NHibernate
         {
             if (SessionFactory != null)
             {
-                (SessionFactory as IDisposable).Dispose();
+                SessionFactory.Dispose();
                 SessionFactory = null;
                 Configuration = null;
             }

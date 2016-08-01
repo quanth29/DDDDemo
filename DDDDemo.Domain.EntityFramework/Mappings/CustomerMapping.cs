@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.Entity.ModelConfiguration;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Data.Entity.ModelConfiguration;
 using DDDDemo.Domain.Entities;
 
 namespace DDDDemo.Domain.EntityFramework.Mappings
@@ -19,9 +14,7 @@ namespace DDDDemo.Domain.EntityFramework.Mappings
             {
                 config.Properties(c => new
                 {
-                    Id = c.Id,
-                    Name = c.Name,
-                    Age = c.Age
+                    c.Id, c.Name, c.Age
                 });
                 config.ToTable("Customers");
             });
